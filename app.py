@@ -18,7 +18,7 @@ LANGUAGES = [
 ]
 
 # Define the year range
-ALL_YEARS = list(range(2019, 2026))
+ALL_YEARS = list(range(2020, 2026))
 
 @app.route('/')
 def serve_index():
